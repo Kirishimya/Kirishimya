@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kirishimya
 - 👀 I’m interested in embedded
-     Arduino,
+     systems,
      system programming, 
      C programming, 
      C++ programming,
