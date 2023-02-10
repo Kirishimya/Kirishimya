@@ -9,8 +9,7 @@
      Processing with JavaScript
      
 - 🌱 I’m currently learning 
-     PLC programming and
-     Ladder
+     IoT programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
      girossine123@gmail.com
